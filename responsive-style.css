@@ -64,18 +64,15 @@ body {
         width: 100%;
      }
 
-      section
+      header,
+      nav,
+      section,
+      aside,
+      footer
         {
         width: 90%;
         float: none;
       }
-
-      aside 
-      {
-        width: 90%;
-        float: none;
-      }
-
     }
 
 
@@ -86,13 +83,12 @@ body {
         width: 100%;
     }
     
-    section 
-      {
-      width: 90%;
-      float: none;
-    }
 
-    aside 
+    header,
+    nav,
+    section,
+    aside,
+    footer
       {
       width: 90%;
       float: none;
